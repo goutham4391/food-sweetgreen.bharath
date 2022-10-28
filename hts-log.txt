@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 27 Oct 2022 22:41:54 at https://www.sweetgreen.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.sweetgreen.com/ -O1 "C:\Users\dell\Desktop\barath\food9" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:44:08	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.sweetgreen.com/)
+22:46:14	Error: 	"Not Found" (404) at link https://www.sweetgreen.com/naomi (from https://www.sweetgreen.com/)
+22:47:09	Error: 	"Not Found" (404) at link https://www.sweetgreen.com/order.sweetgreen.com (from https://www.sweetgreen.com/)
+22:47:31	Error: 	"Not Found" (404) at link https://apps.omegatheme.com/group-price-attribute/client/ajaxCart.js (from https://cdn.cookielaw.org/consent/7654c64d-6cb0-446f-9169-1a62b112b69e/OtAutoBlock.js)
+22:47:31	Warning: 	Retry after error -4 (Connect Error) at link https://s.oprm.co/pixel.js (from https://cdn.cookielaw.org/consent/7654c64d-6cb0-446f-9169-1a62b112b69e/OtAutoBlock.js)
+22:47:31	Error: 	"Not Found" (404) at link https://apps.omegatheme.com/group-price-attribute/client/app.js (from https://cdn.cookielaw.org/consent/7654c64d-6cb0-446f-9169-1a62b112b69e/OtAutoBlock.js)
+22:47:31	Error: 	"Not Found" (404) at link https://apps.omegatheme.com/group-price-attribute/client/collection.js (from https://cdn.cookielaw.org/consent/7654c64d-6cb0-446f-9169-1a62b112b69e/OtAutoBlock.js)
+22:47:31	Error: 	"Not Found" (404) at link https://apps.omegatheme.com/group-price-attribute/client/limitOrder.js (from https://cdn.cookielaw.org/consent/7654c64d-6cb0-446f-9169-1a62b112b69e/OtAutoBlock.js)
+22:47:31	Error: 	"Not Found" (404) at link https://apps.omegatheme.com/group-price-attribute/quantity_break_v2.js (from https://cdn.cookielaw.org/consent/7654c64d-6cb0-446f-9169-1a62b112b69e/OtAutoBlock.js)
+22:47:31	Error: 	"Not Found" (404) at link https://www.sweetgreen.com/onelink.me (from https://cdn.cookielaw.org/consent/7654c64d-6cb0-446f-9169-1a62b112b69e/OtAutoBlock.js)
+22:47:31	Error: 	"Not Found" (404) at link https://apps.omegatheme.com/group-price-attribute/client/quantityCart.js (from https://cdn.cookielaw.org/consent/7654c64d-6cb0-446f-9169-1a62b112b69e/OtAutoBlock.js)
+22:47:50	Warning: 	Retry after error -4 (Connect Error) at link https://s.oprm.co/pixel.js (from https://cdn.cookielaw.org/consent/7654c64d-6cb0-446f-9169-1a62b112b69e/OtAutoBlock.js)
+22:47:59	Error: 	"Connect Error" (-4) after 2 retries at link https://s.oprm.co/pixel.js (from https://cdn.cookielaw.org/consent/7654c64d-6cb0-446f-9169-1a62b112b69e/OtAutoBlock.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 6 seconds : 159 links scanned, 145 files written (20827501 bytes overall) [12937853 bytes received at 35349 bytes/sec], 13073307 bytes transferred using HTTP compression in 45 files, ratio 38%, 2.4 requests per connection
+(11 errors, 2 warnings, 0 messages)

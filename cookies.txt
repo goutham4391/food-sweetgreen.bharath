@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+sc-static.net	TRUE	/scevent.min.js	FALSE	1999999999	X-AB	0d6e407936704bd380072f5891d28b0e
+sc-static.net	TRUE	/	FALSE	1999999999	SameSite	None
+
